@@ -7,7 +7,7 @@ about:
   head: b1f20cf
   archived: false
   latestVersion: v1.07
-  collectedAt: 2026-09-04T19:30:32Z
+  collectedAt: 2026-09-04T21:01:14Z
 timeline:
   created: 2018-03-23
   lastCommit: 2025-11-01
@@ -83,5 +83,38 @@ total:
   openIssue: 131
   commit: 601
 ---
+path: /home/runner/.x-repo/github.com/Dr-Noob/cpufetch
+collectedAt: 2026-09-04T21:01:15Z
+loc:
+  C:
+    code: 7827
+    comments: 745
+    blanks: 1235
+    files: 30
+  CHeader:
+    code: 1989
+    comments: 121
+    blanks: 214
+    files: 32
+  Makefile:
+    code: 114
+    comments: 3
+    blanks: 26
+    files: 1
+  Sh:
+    code: 51
+    comments: 11
+    blanks: 12
+    files: 3
+  Markdown:
+    code: 0
+    comments: 392
+    blanks: 122
+    files: 6
+total:
+  code: 9981
+  comments: 1272
+  blanks: 1609
+  files: 72
 ---
 
