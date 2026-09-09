@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.07"
   latestRelease: "v1.07"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:31:52Z
+  collectedAt: 2026-09-09T18:43:37Z
 timeline:
   created: 2018-03-23
   lastCommit: 2025-11-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-11-01
   lastPrerelease: 
 popularity:
-  star: 2145
+  star: 2144
   watcher: 26
   fork: 118
   release: 12
@@ -86,7 +86,7 @@ total:
   commit: 601
 ---
 path: /home/runner/.x-repo/github.com/Dr-Noob/cpufetch
-collectedAt: 2026-09-09T04:31:53Z
+collectedAt: 2026-09-09T18:43:41Z
 loc:
   C:
     code: 7827
