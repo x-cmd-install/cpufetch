@@ -22,7 +22,16 @@ x install cpufetch
 - **Latest**: `v1.07` (2025-11-01)
 - **Last commit**: 2025-11-01
 - **Assets in release**: 5
-- **Published**: 2025-11-01T07:58:50Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [cpufetch_arm64_android](https://github.com/Dr-Noob/cpufetch/releases/download/v1.07/cpufetch_arm64_android) | 173.9 KiB | `other` |
+| [cpufetch_arm64_linux](https://github.com/Dr-Noob/cpufetch/releases/download/v1.07/cpufetch_arm64_linux) | 917.4 KiB | `native/linux/arm64` |
+| [cpufetch_x86-64_linux](https://github.com/Dr-Noob/cpufetch/releases/download/v1.07/cpufetch_x86-64_linux) | 1.1 MiB | `other` |
+| [cpufetch_x86-64_windows.exe](https://github.com/Dr-Noob/cpufetch/releases/download/v1.07/cpufetch_x86-64_windows.exe) | 255.0 KiB | `native/win/x64` |
+| [cpufetch_x86_linux](https://github.com/Dr-Noob/cpufetch/releases/download/v1.07/cpufetch_x86_linux) | 1.1 MiB | `other` |
 
 ## Popularity
 
@@ -57,8 +66,8 @@ Total: **9,981** lines of code across **72** files in the top 5 languages.
 Install metadata for cpufetch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cpufetch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/cpufetch.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/cpufetch.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:33:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:04Z._
