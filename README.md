@@ -37,22 +37,22 @@ Total: **9,981** lines of code across **72** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,155 · **Forks**: 118 · **Open issues**: 374 · **Contributors**: 4
+- **Stars**: 2,155 · **Forks**: 118 · **Open issues**: 375 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 4 · **Open PRs**: 1 · **Closed issues**: 242 · **Open issues**: 132 · **Commits**: 601
+- **Releases**: 12 · **Merged PRs**: 4 · **Open PRs**: 1 · **Closed issues**: 242 · **Open issues**: 133 · **Commits**: 601
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-04 | 0 | 0 | 0 | 0 | 5 | 0 |
-| 90d | 2026-07-05 | 0 | 0 | 0 | 0 | 7 | 0 |
-| last180d | 2026-04-06 | 0 | 0 | 0 | 0 | 13 | 0 |
-| 360d | 2025-10-08 | 1 | 0 | 0 | 4 | 40 | 4 |
-| last720d | 2024-10-13 | 1 | 0 | 0 | 9 | 100 | 4 |
+| 30d | 2026-09-04 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-08-05 | 0 | 0 | 0 | 0 | 6 | 0 |
+| 90d | 2026-07-06 | 0 | 0 | 0 | 0 | 8 | 0 |
+| last180d | 2026-04-07 | 0 | 0 | 0 | 0 | 14 | 0 |
+| 360d | 2025-10-09 | 1 | 0 | 0 | 4 | 41 | 4 |
+| last720d | 2024-10-14 | 1 | 0 | 0 | 9 | 101 | 4 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for cpufetch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:13:49Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:46:28Z._
