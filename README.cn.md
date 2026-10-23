@@ -37,22 +37,22 @@ x install cpufetch
 
 ## 流行度
 
-- **Star**: 2,165 · **Fork**: 120 · **开放 issue**: 376 · **贡献者**: 4
+- **Star**: 2,165 · **Fork**: 120 · **开放 issue**: 377 · **贡献者**: 4
 
 ## 累计统计
 
-- **发布数**: 12 · **已合并 PR**: 4 · **开放 PR**: 1 · **已关闭 issue**: 243 · **开放 issue**: 133 · **提交数**: 601
+- **发布数**: 12 · **已合并 PR**: 4 · **开放 PR**: 1 · **已关闭 issue**: 243 · **开放 issue**: 134 · **提交数**: 601
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 6 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 8 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 14 | 0 |
-| 360d | 2025-10-27 | 1 | 0 | 0 | 3 | 39 | 3 |
-| last720d | 2024-11-01 | 1 | 0 | 0 | 10 | 98 | 4 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 4 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 7 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 9 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 15 | 0 |
+| 360d | 2025-10-28 | 1 | 0 | 0 | 3 | 40 | 3 |
+| last720d | 2024-11-02 | 1 | 0 | 0 | 10 | 99 | 4 |
 
 ## Release 资产
 
@@ -64,6 +64,25 @@ x install cpufetch
 | [cpufetch_x86-64_windows.exe](https://github.com/Dr-Noob/cpufetch/releases/download/v1.07/cpufetch_x86-64_windows.exe) | 255.0 KiB | `native/win/x64` |
 | [cpufetch_x86_linux](https://github.com/Dr-Noob/cpufetch/releases/download/v1.07/cpufetch_x86_linux) | 1.1 MiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/cpufetch) 上共有 **73** 个发行版报告此项目。**41** 个 ✅ 已是最新上游版本，**25** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `1.07` | ✅ latest |
+| Debian 14 | `1.07` | ✅ latest |
+| Debian 13 | `1.06` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.07` | ✅ latest |
+| Ubuntu 24.04 LTS | `1.05` | ⚠️ outdated |
+| Arch | `1.07` | ✅ latest |
+| Homebrew | `1.07` | ✅ latest |
+| Fedora rawhide | `1.07` | ✅ latest |
+| Nix unstable | `1.07` | ✅ latest |
+| Void | `1.07` | ✅ latest |
+| Alpine edge | `1.07` | ✅ latest |
+| openSUSE Tumbleweed | `1.07` | ✅ latest |
+
 ## 改进这些数据
 
 cpufetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `cpufetch` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -73,4 +92,4 @@ cpufetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:32:51Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:37:40Z._
