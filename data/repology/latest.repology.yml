@@ -1,14 +1,25 @@
-- repo: nix_stable_25_05
+- repo: nix_stable_25_11
   srcname: cpufetch
   visiblename: cpufetch
-  version: "1.06"
+  version: "1.07"
   origversion: null
-  status: outdated
+  status: newest
   summary: Simplistic yet fancy CPU architecture fetching tool
   maintainers:
     - '"^"@regexmail.net'
   licenses:
     - GPL-2.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: cpufetch
+  binname: cpufetch
+  visiblename: cpufetch
+  version: "1.07"
+  origversion: 1.07-1
+  status: newest
+  summary: Simple yet fancy CPU architecture fetching tool
+  licenses:
+    - GPL-2.0-or-later
 - repo: alpine_edge
   subrepo: community
   srcname: cpufetch
@@ -198,6 +209,17 @@
     - GPL-2.0-only
   categories:
     - Unspecified
+- repo: nix_stable_24_05
+  srcname: cpufetch
+  visiblename: cpufetch
+  version: "1.05"
+  origversion: null
+  status: outdated
+  summary: Simplistic yet fancy CPU architecture fetching tool
+  maintainers:
+    - '"^"@regexmail.net'
+  licenses:
+    - GPL-2.0-only
 - repo: epel_9
   srcname: cpufetch
   binnames:
@@ -207,6 +229,22 @@
   visiblename: cpufetch
   version: "1.06"
   origversion: 1.06-1.el9
+  status: outdated
+  summary: Simple tool for determining CPU architecture
+  licenses:
+    - GPL-2.0-only
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: updates
+  srcname: cpufetch
+  binnames:
+    - cpufetch
+    - cpufetch-debuginfo
+    - cpufetch-debugsource
+  visiblename: cpufetch
+  version: "1.06"
+  origversion: 1.06-1.fc39
   status: outdated
   summary: Simple tool for determining CPU architecture
   licenses:
@@ -224,22 +262,6 @@
   version: "1.04"
   origversion: 1.04-2.fc39
   status: legacy
-  summary: Simple tool for determining CPU architecture
-  licenses:
-    - GPL-2.0-only
-  categories:
-    - Unspecified
-- repo: fedora_39
-  subrepo: updates
-  srcname: cpufetch
-  binnames:
-    - cpufetch
-    - cpufetch-debuginfo
-    - cpufetch-debugsource
-  visiblename: cpufetch
-  version: "1.06"
-  origversion: 1.06-1.fc39
-  status: outdated
   summary: Simple tool for determining CPU architecture
   licenses:
     - GPL-2.0-only
@@ -278,20 +300,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: release
-  srcname: cpufetch
-  binnames:
-    - cpufetch
-  visiblename: cpufetch
-  version: "1.06"
-  origversion: 1.06-1.fc41
-  status: legacy
-  summary: Simple tool for determining CPU architecture
-  licenses:
-    - GPL-2.0-only
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: updates
   srcname: cpufetch
   binnames:
@@ -300,6 +308,20 @@
   version: "1.07"
   origversion: 1.07-1.fc41
   status: newest
+  summary: Simple tool for determining CPU architecture
+  licenses:
+    - GPL-2.0-only
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: cpufetch
+  binnames:
+    - cpufetch
+  visiblename: cpufetch
+  version: "1.06"
+  origversion: 1.06-1.fc41
+  status: legacy
   summary: Simple tool for determining CPU architecture
   licenses:
     - GPL-2.0-only
@@ -334,20 +356,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: cpufetch
-  binnames:
-    - cpufetch
-  visiblename: cpufetch
-  version: "1.07"
-  origversion: 1.07-1.fc43
-  status: newest
-  summary: Simple tool for determining CPU architecture
-  licenses:
-    - GPL-2.0-only
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: cpufetch
   binnames:
@@ -356,6 +364,20 @@
   version: "1.06"
   origversion: 1.06-3.fc43
   status: legacy
+  summary: Simple tool for determining CPU architecture
+  licenses:
+    - GPL-2.0-only
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: cpufetch
+  binnames:
+    - cpufetch
+  visiblename: cpufetch
+  version: "1.07"
+  origversion: 1.07-1.fc43
+  status: newest
   summary: Simple tool for determining CPU architecture
   licenses:
     - GPL-2.0-only
@@ -482,7 +504,7 @@
     - GPL-2
   categories:
     - sysutils
-- repo: manjaro_unstable
+- repo: manjaro_stable
   subrepo: extra
   srcname: cpufetch
   binname: cpufetch
@@ -493,17 +515,17 @@
   summary: Simple yet fancy CPU architecture fetching tool
   licenses:
     - GPL-2.0-or-later
-- repo: nix_stable_24_05
+- repo: manjaro_testing
+  subrepo: extra
   srcname: cpufetch
+  binname: cpufetch
   visiblename: cpufetch
-  version: "1.05"
-  origversion: null
-  status: outdated
-  summary: Simplistic yet fancy CPU architecture fetching tool
-  maintainers:
-    - '"^"@regexmail.net'
+  version: "1.07"
+  origversion: 1.07-1
+  status: newest
+  summary: Simple yet fancy CPU architecture fetching tool
   licenses:
-    - GPL-2.0-only
+    - GPL-2.0-or-later
 - repo: nix_stable_24_11
   srcname: cpufetch
   visiblename: cpufetch
@@ -515,12 +537,12 @@
     - '"^"@regexmail.net'
   licenses:
     - GPL-2.0-only
-- repo: nix_stable_25_11
+- repo: nix_stable_25_05
   srcname: cpufetch
   visiblename: cpufetch
-  version: "1.07"
+  version: "1.06"
   origversion: null
-  status: newest
+  status: outdated
   summary: Simplistic yet fancy CPU architecture fetching tool
   maintainers:
     - '"^"@regexmail.net'
@@ -624,7 +646,7 @@
   licenses:
     - GPL-2.0-or-later
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: cpufetch
   binnames:
     - cpufetch
@@ -637,7 +659,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: cpufetch
   binnames:
     - cpufetch
@@ -859,6 +881,19 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: cpufetch
+  binnames:
+    - cpufetch
+  visiblename: cpufetch
+  version: "1.07"
+  origversion: 1.07-2
+  status: newest
+  maintainers:
+    - claystan97@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: cpufetch
   binnames:
     - cpufetch
