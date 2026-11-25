@@ -37,7 +37,7 @@ Total: **9,981** lines of code across **72** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,167 · **Forks**: 121 · **Open issues**: 380 · **Contributors**: 4
+- **Stars**: 2,168 · **Forks**: 122 · **Open issues**: 380 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **9,981** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 1 | 0 | 7 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 1 | 0 | 9 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 1 | 0 | 15 | 0 |
-| 360d | 2025-11-29 | 0 | 0 | 1 | 1 | 36 | 0 |
-| last720d | 2024-12-04 | 1 | 0 | 1 | 9 | 95 | 4 |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 1 | 0 | 7 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 1 | 0 | 9 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 1 | 0 | 15 | 0 |
+| 360d | 2025-11-30 | 0 | 0 | 1 | 1 | 36 | 0 |
+| last720d | 2024-12-05 | 1 | 0 | 1 | 9 | 95 | 4 |
 
 ## Release assets
 
@@ -64,25 +64,6 @@ Total: **9,981** lines of code across **72** files in the top 5 languages.
 | [cpufetch_x86-64_windows.exe](https://github.com/Dr-Noob/cpufetch/releases/download/v1.07/cpufetch_x86-64_windows.exe) | 255.0 KiB | `native/win/x64` |
 | [cpufetch_x86_linux](https://github.com/Dr-Noob/cpufetch/releases/download/v1.07/cpufetch_x86_linux) | 1.1 MiB | `other` |
 
-## Distribution status
-
-Reported by **75** distros on [repology.org](https://repology.org/project/cpufetch). **43** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.07` | ✅ latest |
-| Debian 14 | `1.07` | ✅ latest |
-| Debian 13 | `1.06` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.07` | ✅ latest |
-| Ubuntu 24.04 LTS | `1.05` | ⚠️ outdated |
-| Arch | `1.07` | ✅ latest |
-| Homebrew | `1.07` | ✅ latest |
-| Fedora rawhide | `1.07` | ✅ latest |
-| Nix unstable | `1.07` | ✅ latest |
-| Void | `1.07` | ✅ latest |
-| Alpine edge | `1.07` | ✅ latest |
-| openSUSE Tumbleweed | `1.07` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for cpufetch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cpufetch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -92,4 +73,4 @@ Install metadata for cpufetch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:50:05Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:35:37Z._
